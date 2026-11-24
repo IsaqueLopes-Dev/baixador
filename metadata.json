@@ -1,0 +1,6 @@
+{
+  "name": "LagDownloader",
+  "description": "Baixe vídeos do YouTube, músicas do Spotify e vídeos e áudios do Instagram no celular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
